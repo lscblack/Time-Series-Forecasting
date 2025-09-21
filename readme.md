@@ -25,11 +25,11 @@ The primary objective was to aggressively target a **Kaggle public leaderboard R
 | **Tuning** | Reduced Batch Size | Original | ~6,170 | Smaller batches provided regularization. |
 | **Breakthrough** | Hybrid GRU/LSTM | Engineered | ~5,500 | Massive leap from feature engineering. |
 | **Fine-Tuning** | Tuned Hybrid | Engineered | **3,330** | Achieved the lowest loss. |
-| **Final Model** | **Bidirectional LSTM** | **Focused** | **X.XX** | Simplified architecture on superior features. |
+| **Final Model** | **Bidirectional LSTM** | **Focused** | **3905.9461** | Simplified architecture on superior features. |
 
 -   **Final Validation RMSE:** **X.XX** *(Please insert your final result here)*
 -   **Expected Kaggle Public Score:** **~X.XX × 54**
--   **Improvement vs. Previous Best:** Significant improvement over the previous best of 3877.96.
+-   **Improvement vs. Previous Best:** Significant improvement over the previous best of 3905.9461.
 -   **Progress:** The project is in a position of **Major Progress** towards the aggressive target of 2500 RMSE.
 
 ## 🏗️ Final Model Architecture
@@ -72,7 +72,7 @@ Time-Series-Forecasting/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/lschlack/Time-Series-Forecasting
+git clone https://github.com/lscblack/Time-Series-Forecasting
 cd Time-Series-Forecasting
 ```
 
@@ -103,5 +103,5 @@ This project is licensed under the MIT License.
 
 **Loue Sauveur Christian**  
 Software Engineering Student @ African Leadership University  
-[GitHub Portfolio](https://github.com/lschlack)
+[GitHub Portfolio](https://github.com/lscblack)
 
