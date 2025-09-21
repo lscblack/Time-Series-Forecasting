@@ -4,7 +4,7 @@
 
 This project tackles the challenge of forecasting **PM2.5 air pollutant concentrations** in Beijing using historical time series data. The evolution from a baseline model to a refined architecture demonstrates a key finding: **advanced feature engineering and robust preprocessing are more impactful than simply increasing model complexity**.
 
-The primary objective was to aggressively target a **Kaggle public leaderboard RMSE of 2500**, achieved through an iterative process of architectural refinement and, most significantly, sophisticated feature engineering.
+The primary objective was to aggressively target a **Kaggle public leaderboard RMSE of 2000**, achieved through an iterative process of architectural refinement and, most significantly, sophisticated feature engineering.
 
 ## 🚀 Key Features & Contributions
 
