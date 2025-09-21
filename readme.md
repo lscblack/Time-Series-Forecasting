@@ -25,11 +25,11 @@ The primary objective was to aggressively target a **Kaggle public leaderboard R
 | **Tuning** | Reduced Batch Size | Original | ~6,170 | Smaller batches provided regularization. |
 | **Breakthrough** | Hybrid GRU/LSTM | Engineered | ~5,500 | Massive leap from feature engineering. |
 | **Fine-Tuning** | Tuned Hybrid | Engineered | **3,330** | Achieved the lowest loss. |
-| **Final Model** | **Bidirectional LSTM** | **Focused** | **3905.9461** | Simplified architecture on superior features. |
+| **Final Model** | **Bidirectional LSTM** | **Focused** | **2825.2246** | Simplified architecture on superior features. |
 
 -   **Final Validation RMSE:** **X.XX** *(Please insert your final result here)*
 -   **Expected Kaggle Public Score:** **~X.XX × 54**
--   **Improvement vs. Previous Best:** Significant improvement over the previous best of 3905.9461.
+-   **Improvement vs. Previous Best:** Significant improvement over the previous best of 2825.2246.
 -   **Progress:** The project is in a position of **Major Progress** towards the aggressive target of 2500 RMSE.
 
 ## 🏗️ Final Model Architecture
