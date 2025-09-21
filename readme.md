@@ -50,13 +50,6 @@ Progress analysis confirms **significant improvement** toward the aggressive tar
 ├── data/
 │   ├── train.csv
 │   ├── test.csv
-│
-├── notebooks/
-│   ├── 01\_data\_preprocessing.ipynb
-│   ├── 02\_feature\_engineering.ipynb
-│   ├── 03\_model\_training.ipynb
-│   ├── 04\_evaluation\_and\_submission.ipynb
-│
 ├── submissions/
 │   ├── submission\_xxx.csv
 │
@@ -71,7 +64,7 @@ Progress analysis confirms **significant improvement** toward the aggressive tar
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/pm25-bilstm.git
+git clone https://github.com/lscblack/Time-Series-Forecasting
 cd pm25-bilstm
 ````
 
@@ -101,7 +94,7 @@ pip install -r requirements.txt
 * Python 3.10+
 * TensorFlow / Keras
 * NumPy, Pandas, Scikit-learn
-* Matplotlib, Seaborn
+* Matplotlib
 
 Install all via:
 
