@@ -6,6 +6,8 @@ This project tackles the challenge of forecasting **PM2.5 air pollutant concentr
 
 The primary objective was to aggressively target a **Kaggle public leaderboard RMSE of 2000**, achieved through an iterative process of architectural refinement and, most significantly, sophisticated feature engineering.
 
+![alt text](image.png)
+
 ##  Key Features & Contributions
 
 -   **Data-Centric Approach:** Emphasized sophisticated feature engineering and preprocessing as the main driver for performance gains, rather than solely increasing model complexity.
