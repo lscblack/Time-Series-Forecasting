@@ -31,8 +31,8 @@ The primary objective was to aggressively target a **Kaggle public leaderboard R
 
 -   **Final Validation RMSE:** **X.XX** *3905.9461*
 -   **Expected Kaggle Public Score:** **~3905.9461**
--   **Improvement vs. Previous Best:** Significant improvement over the previous best of 2825.2246.
--   **Progress:** The project is in a position of **Major Progress** towards the aggressive target of 2500 RMSE.
+-   **Improvement vs. Previous Best:** Significant improvement over the 2630.1274 best of 2825.2246.
+-   **Progress:** The project is in a position of **Major Progress** towards the aggressive target of 2000 RMSE.
 
 ## Final Model Architecture
 
